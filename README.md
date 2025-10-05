@@ -168,7 +168,6 @@ aapkamentor/
 ├── Dockerfile                        # Container instructions
 ├── aapkamentor_report.pdf                         # LaTeX report
 ├── README.txt                          # This README
-└── images/                            # Screenshots and figures
 ```
 
 ---
@@ -186,3 +185,4 @@ aapkamentor/
 ## License
 
 MIT License
+
